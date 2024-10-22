@@ -1,1 +1,2 @@
-# Coffee-shop-sales-Report
+# Cafe-shop-sales-Report
+Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiZTNmZjJlNDYtYTI4Ny00M2ZmLTg5MWQtODliNWMwNDk2MTI5IiwidCI6IjY0ZGU2ZGRmLTA4ZTAtNGJjNy1iYTdkLWZmNTM1MmU1MGFjYyJ9
